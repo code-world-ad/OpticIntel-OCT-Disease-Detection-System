@@ -1,0 +1,14 @@
+PyYAML
+tensorboard
+torch
+torchvision
+tqdm
+packaging
+timm
+torcheval
+pillow
+numpy
+omegaconf
+opencv-python
+hydra-core
+scikit-learn
